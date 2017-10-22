@@ -1,6 +1,5 @@
 var express = require('express');
-//var xml = require('xml2json');
-//console.log(Object.keys(xml));
+
 var path = require('path');
 var favicon = require('serve-favicon');
 var logger = require('morgan');
